@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Lamp.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
